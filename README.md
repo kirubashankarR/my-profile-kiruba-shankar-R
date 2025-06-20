@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Kiruba Shankar R
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">  
-🎓 B.Tech Student | Artificial Intelligence & Machine Learning   
+🎓 B.Tech Student | **Artificial Intelligence & Machine Learning **  
 
 ---
 
