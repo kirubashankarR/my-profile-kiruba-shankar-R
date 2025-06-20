@@ -70,7 +70,7 @@ _Expected Graduation: 2026_
 ## 📈 GitHub Stats
 
 ![Kiruba's GitHub Stats](C:\Users\leela\Downloads\api.svg)  
-![Top Languages]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kirubashankarR&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+![Top Languages]([![[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kirubashankarR&bg_color=050505&color=877ff0&line=4d45ba&point=aa4b4b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)))
 
 ---
 
