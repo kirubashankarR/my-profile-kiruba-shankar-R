@@ -1,73 +1,85 @@
-## 👋 Hi, I'm Kiruba Shankar R
+# 👋 Hey there! I'm Kiruba Shankar R
 
-🎓 B.Tech Student | AI & ML Enthusiast  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">  
+🎓 B.Tech Student | Artificial Intelligence & Machine Learning  
+📍 Chennai, India  
 📧 221501508@rajalakshmi.edu.in  
-🌐 [CareerFlow AI Profile](https://hiring-search.careerflow.ai/)
+🌐 [CareerFlow AI](https://hiring-search.careerflow.ai/)
 
 ---
 
-### 💼 Objective
-
-A highly motivated and dedicated Artificial Intelligence and Machine Learning professional seeking a challenging position to utilize my software skills for the growth of the organization.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Passionate+about+AI+%26+ML;Always+learning+something+new;Building+apps+with+purpose+and+precision" alt="Typing SVG" />
 
 ---
 
-### 🚀 Skills
+## 🧠 About Me
 
-**Languages & Frameworks:**  
-- HTML, Python  
-
-**Tools:**  
-- Jupyter Notebook, VS Code, GitHub  
-
-**Modules & Libraries:**  
-- Numpy, Pandas, Scikit-learn (Beginner)
+I'm a tech enthusiast currently pursuing my Bachelor's in Artificial Intelligence & Machine Learning. My passion lies in building impactful applications—ranging from AI-powered object detection to user-friendly mobile apps. I’m driven by curiosity and love to solve problems through code and design.
 
 ---
 
-### 📚 Education
+## 🚀 Tech Stack & Tools
+
+<img src="https://skillicons.dev/icons?i=python,html,css,jupyter,github,git,vscode,firebase,django,androidstudio,mysql" />
+
+---
+
+## 🔬 Projects
+
+### 🚗 YOLOv8 Vehicle Detection & Counting  
+**Jan 2024 – Feb 2024**  
+- Fine-tuned YOLOv8 to detect and count vehicles in real-time from image/video feeds.  
+- Optimized GPU performance for faster inference.  
+
+### 🌱 Smart Gardening Android App  
+**Jun 2024 – Jul 2024**  
+- Built a location-based app to manage personalized gardening tasks.  
+- Integrated reminders and educational guides for plant care.  
+- Designed with user-friendly mobile UI in mind.
+
+---
+
+## 💻 Experience
+
+### AIML Intern — Acemgrade  
+- Collaborated on innovative machine learning challenges.  
+- Worked with real-time data and model evaluation workflows.
+
+### Full Stack Developer  
+- Created Python-Django based web applications with MySQL, HTML & CSS.  
+- Delivered reliable backend with clean frontend interfaces.
+
+---
+
+## 🎓 Education
 
 **Bachelor of Technology (B.Tech)**  
-Artificial Intelligence and Machine Learning  
-Rajalakshmi Engineering College  
+Artificial Intelligence & Machine Learning  
+Rajalakshmi Engineering College, Chennai  
 _Expected Graduation: 2026_
 
 ---
 
-### 🛠️ Projects
+## 🎯 Hobbies
 
-#### YOLOv8 Vehicle Count Detection using CNN  
-**Jan 2024 – Feb 2024**  
-- Utilized a pre-trained YOLOv8 model for vehicle detection.  
-- Fine-tuned on a custom vehicle dataset for accuracy.  
-- Implemented real-time detection with GPU optimization.
-
-#### Android-Based Application for Gardening  
-**Jun 2024 – Jul 2024**  
-- Built an intuitive Android app for managing seed inventory and planting schedules.  
-- Integrated reminders, care tips, and tutorials to assist users.  
-- Focused on user-friendly design and location-based customization.
+- 🏋️‍♂️ Fitness enthusiast — regular gym sessions  
+- 💃 Passionate about hip-hop & contemporary dance  
+- ✍️ Content writer — contributed to multiple online platforms  
 
 ---
 
-### 💻 Experience
+## 📈 GitHub Stats
 
-#### AIML Internship — Acemgrade  
-- Collaborated with engineers and researchers on innovative AIML challenges.  
-- Gained hands-on experience and developed industry connections.
-
-#### Web Application Development  
-- Built full-stack web applications using **Python, Django, MySQL, HTML, CSS**.  
-- Ensured robust frontend/backend performance for project success.
+![Kiruba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiruba-shankar-r&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiruba-shankar-r&layout=compact&theme=radical)
 
 ---
 
-### 🎯 Extra-Curricular Activities
+## 🎥 Just for Fun
 
-- **Fitness Enthusiast**: Regular gym-goer for health and discipline  
-- **Dance**: Performances in hip-hop and contemporary at family events  
-- **Article Writing**: Contributed to platforms with informative writeups
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
+> “Technology is best when it brings people together. Let’s build for impact.”
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiruba-shankar-r&show_icons=true&theme=radical)
