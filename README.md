@@ -1,7 +1,8 @@
-# 👋 Hey there! I'm Kiruba Shankar R
+<h1 align="center">Hi there 👋 I'm Kiruba Shankar R</h1>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">  
-🎓 B.Tech Student | **Artificial Intelligence & Machine Learning **  
+<p align="center">
+🎓 B.Tech AI & ML Student @ Rajalakshmi Engineering College | 🚀 AI/ML Intern @ Acemgrade | 🧠 Passionate about Deep Learning & Full Stack Development
+</p>
 
 ---
 
