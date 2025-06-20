@@ -1,9 +1,7 @@
 # 👋 Hey there! I'm Kiruba Shankar R
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">  
-🎓 B.Tech Student | Artificial Intelligence & Machine Learning  
-📍 Chennai, India  
-📧 221501508@rajalakshmi.edu.in  
+🎓 B.Tech Student | Artificial Intelligence & Machine Learning   
 🌐 [CareerFlow AI](https://hiring-search.careerflow.ai/)
 
 ---
@@ -14,7 +12,9 @@
 
 ## 🧠 About Me
 
-I'm a tech enthusiast currently pursuing my Bachelor's in Artificial Intelligence & Machine Learning. My passion lies in building impactful applications—ranging from AI-powered object detection to user-friendly mobile apps. I’m driven by curiosity and love to solve problems through code and design.
+I'm a tech enthusiast currently pursuing my Bachelor's in Artificial Intelligence & Machine Learning.  
+My passion lies in building impactful applications—ranging from AI-powered object detection to user-friendly mobile apps.  
+I’m driven by curiosity and love to solve problems through code and design.
 
 ---
 
@@ -70,7 +70,7 @@ _Expected Graduation: 2026_
 
 ## 📈 GitHub Stats
 
-![Kiruba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiruba-shankar-r&show_icons=true&theme=radical)
+![Kiruba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiruba-shankar-r&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiruba-shankar-r&layout=compact&theme=radical)
 
 ---
@@ -80,6 +80,3 @@ _Expected Graduation: 2026_
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 > “Technology is best when it brings people together. Let’s build for impact.”
-
----
-
