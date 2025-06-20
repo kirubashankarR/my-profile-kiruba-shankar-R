@@ -2,7 +2,6 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">  
 🎓 B.Tech Student | Artificial Intelligence & Machine Learning   
-🌐 [CareerFlow AI](https://hiring-search.careerflow.ai/)
 
 ---
 
@@ -70,7 +69,7 @@ _Expected Graduation: 2026_
 
 ## 📈 GitHub Stats
 
-![Kiruba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiruba-shankar-r&show_icons=true&theme=radical)  
+![Kiruba's GitHub Stats]("C:\Users\leela\Downloads\api.svg")  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiruba-shankar-r&layout=compact&theme=radical)
 
 ---
