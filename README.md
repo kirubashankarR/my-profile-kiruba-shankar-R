@@ -1,53 +1,62 @@
 <h1 align="center">Hi there 👋 I'm Kiruba Shankar R</h1>
 
 <p align="center">
-🎓 B.Tech AI & ML Student @ Rajalakshmi Engineering College | 🚀 AI/ML Intern @ Acemgrade | 🧠 Passionate about Deep Learning & Full Stack Development
+<strong>🎓 B.Tech AI & ML Student @ Rajalakshmi Engineering College</strong> <br/>
+🚀 AI/ML Intern @ Acemgrade | 📱 Android Developer | 🌐 Web Developer <br/>
+🧠 Passionate about Deep Learning, Real-time Detection & Creative UI/UX
 </p>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Passionate+about+AI+%26+ML;Always+learning+something+new;Building+apps+with+purpose+and+precision" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Always+curious+about+AI+%26+ML;Building+real+world+solutions;Turning+ideas+into+impact" alt="Typing SVG" />
 
 ---
 
-## 🧠 About Me
-
-I'm a tech enthusiast currently pursuing my Bachelor's in Artificial Intelligence & Machine Learning.  
-My passion lies in building impactful applications—ranging from AI-powered object detection to user-friendly mobile apps.  
-I’m driven by curiosity and love to solve problems through code and design.
-
----
-
-## 🚀 Tech Stack & Tools
+## 🚀 Skills & Tools
 
 <img src="https://skillicons.dev/icons?i=python,html,css,jupyter,github,git,vscode,firebase,django,androidstudio,mysql" />
 
 ---
 
-## 🔬 Projects
+## 🧪 Projects
 
-### 🚗 YOLOv8 Vehicle Detection & Counting  
-**Jan 2024 – Feb 2024**  
-- Fine-tuned YOLOv8 to detect and count vehicles in real-time from image/video feeds.  
-- Optimized GPU performance for faster inference.  
-
-### 🌱 Smart Gardening Android App  
-**Jun 2024 – Jul 2024**  
-- Built a location-based app to manage personalized gardening tasks.  
-- Integrated reminders and educational guides for plant care.  
-- Designed with user-friendly mobile UI in mind.
+<table>
+  <tr>
+    <td width="50"><b>🚗</b></td>
+    <td>
+      <h3>YOLOv8 Vehicle Detection & Counting</h3>
+      <p><strong>Duration:</strong> Jan 2024 – Feb 2024</p>
+      <ul>
+        <li>Fine-tuned YOLOv8 to detect and count vehicles in real-time from image/video feeds.</li>
+        <li>Optimized GPU performance for faster inference.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50"><b>🌱</b></td>
+    <td>
+      <h3>Smart Gardening Android App</h3>
+      <p><strong>Duration:</strong> Jun 2024 – Jul 2024</p>
+      <ul>
+        <li>Built a location-based app to manage personalized gardening tasks.</li>
+        <li>Integrated reminders and educational guides for plant care.</li>
+        <li>Designed with user-friendly mobile UI in mind.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💻 Experience
+## 💼 Experience
 
-### AIML Intern — Acemgrade  
-- Collaborated on innovative machine learning challenges.  
-- Worked with real-time data and model evaluation workflows.
+### 🧠 AIML Intern – Acemgrade
+- Collaborated with researchers and engineers on machine learning projects.
+- Worked on real-time data and model optimization challenges.
 
-### Full Stack Developer  
-- Created Python-Django based web applications with MySQL, HTML & CSS.  
-- Delivered reliable backend with clean frontend interfaces.
+### 🌐 Web Developer
+- Built web applications using Python, Django, MySQL, HTML & CSS.
+- Delivered responsive UIs with efficient back-end integration.
 
 ---
 
@@ -55,23 +64,23 @@ I’m driven by curiosity and love to solve problems through code and design.
 
 **Bachelor of Technology (B.Tech)**  
 Artificial Intelligence & Machine Learning  
-Rajalakshmi Engineering College, Chennai  
-_Expected Graduation: 2026_
+<strong>Rajalakshmi Engineering College, Chennai</strong>  
+📅 _Expected Graduation: 2026_
 
 ---
 
 ## 🎯 Hobbies
 
-- 🏋️‍♂️ Fitness enthusiast — regular gym sessions  
-- 💃 Passionate about hip-hop & contemporary dance  
-- ✍️ Content writer — contributed to multiple online platforms  
+- 🏋️‍♂️ Fitness enthusiast — Regular gym sessions  
+- 💃 Dance — Hip-hop & contemporary performance  
+- ✍️ Writing — Articles on tech & creativity
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Kiruba's GitHub Stats](C:\Users\leela\Downloads\api.svg)  
-![Top Languages]([![[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kirubashankarR&bg_color=050505&color=877ff0&line=4d45ba&point=aa4b4b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)))
+![Kiruba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiruba-shankar-r&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiruba-shankar-r&layout=compact&theme=radical)
 
 ---
 
